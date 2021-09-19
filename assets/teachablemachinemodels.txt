@@ -1,0 +1,7 @@
+Created machine learning models using Google's Teachable Machine:
+
+Pattern detection:
+https://teachablemachine.withgoogle.com/models/nO_ELEEYP/
+
+Clothing detection:
+https://teachablemachine.withgoogle.com/models/Fh_aTcLqF/
